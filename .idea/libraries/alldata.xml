@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="alldata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nlp/englishnlp/alldata/testData.tsv.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nlp/englishnlp/alldata/labeledTrainData.tsv.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nlp/englishnlp/alldata/unlabeledTrainData.tsv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
